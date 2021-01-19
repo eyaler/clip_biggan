@@ -1,1 +1,1 @@
-"# clip_biggan" 
+BigGAN + CLIP + CMA-ES aka WanderCLIP
